@@ -33,10 +33,6 @@ It includes:
 - **Save Tasks** → Save your board to a text file
 - **Load Tasks** → Reload saved tasks
 
-✅ **Responsive UI**
-
-- Column layouts adjust for different window sizes
-- Clean, modern look with color-coded sections
 
 ---
 
