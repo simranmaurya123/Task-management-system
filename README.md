@@ -1,4 +1,4 @@
-# ✅ Task Management System (Tkinter To-Do App)
+# ✅ Task Management System ( To-Do App)
 
 A **Task Management System** built with Python’s Tkinter GUI toolkit. This app lets you manage tasks visually in a Kanban-style board with **TO DO**, **IN PROGRESS**, and **DONE** columns.
 
